@@ -1,0 +1,16 @@
+{
+  "name": "rx-priority-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --config .prettierrc.json --write src/**/*.ts"
+  },
+  "author": "“Vlad <“v.borsh.io@gmail.com”>",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "typescript": "^3.8.3"
+  }
+}
